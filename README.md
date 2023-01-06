@@ -13,7 +13,8 @@ QuickStart:
 3) Open the project and go in to Content->GPT_Code->Blueprints->GPT_Component and set you'r openai API key, you can generate one here:
  https://beta.openai.com/account/api-keys
 
-Now play and everything should work.
+Now play and everything should work!
+
 
 Additional:
 
