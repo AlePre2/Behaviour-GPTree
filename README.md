@@ -5,13 +5,13 @@ This is a simple example project to integrate openai API in Unreal Engine.
 QuickStart:
 
 1) Open the CMD and paste this:
- git clone https://github.com/openai/openai-quickstart-node.git
+ git clone "https://github.com/openai/openai-quickstart-node.git"
  
 2) Paste the directory of you'r unreal editor and use this command:
  "\UE_5.0\Engine\Binaries\ThirdParty\Python\Win64\python.exe" -m pip install openai
  
 3) Open the project and go in to Content->GPT_Code->Blueprints->GPT_Component and set you'r openai API key, you can generate one here:
- https://beta.openai.com/account/api-keys
+ "https://beta.openai.com/account/api-keys"
 
 Now play and everything should work!
 
