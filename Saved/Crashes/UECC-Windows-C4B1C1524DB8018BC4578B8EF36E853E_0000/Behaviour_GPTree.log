@@ -1,0 +1,1149 @@
+﻿Log file open, 01/06/23 16:26:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=34924)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Behaviour_GPTree
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\alepr\Documents\Unreal Projects\Behaviour_GPTree\Behaviour-GPTree\Behaviour_GPTree.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.1335] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="0c6bc2cc4ca0c651d17815b59f467b1e"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.723302
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-C4B1C1524DB8018BC4578B8EF36E853E
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.07 seconds
+LogConfig: Display: Loading Mac ini files took 0.07 seconds
+LogConfig: Display: Loading Android ini files took 0.07 seconds
+LogConfig: Display: Loading IOS ini files took 0.07 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.07 seconds
+LogConfig: Display: Loading Unix ini files took 0.08 seconds
+LogConfig: Display: Loading Windows ini files took 0.08 seconds
+LogConfig: Display: Loading TVOS ini files took 0.08 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.09 seconds
+LogConfig: Display: Loading Linux ini files took 0.09 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin FunctionalTestingEditor
+LogPluginManager: Mounting Engine plugin PythonAutomationTest
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonFoundationPackages
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Tests/PythonAutomationTest/Content/' mounted to '/PythonAutomationTest/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonFoundationPackages/Content/' mounted to '/PythonFoundationPackages/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.1335] (), CPU: Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.06-15.26.30:774][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.06-15.26.30:774][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.06-15.26.30:774][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.06-15.26.30:774][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.06-15.26.30:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.06-15.26.30:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.06-15.26.30:776][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.06-15.26.30:777][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.06-15.26.30:783][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.06-15.26.30:783][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.06-15.26.30:783][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.06-15.26.30:783][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.06-15.26.30:783][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.06-15.26.30:783][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.06-15.26.30:783][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.06-15.26.30:784][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.06-15.26.30:784][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.06-15.26.30:784][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.06-15.26.30:784][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.06-15.26.30:840][  0]LogD3D12RHI: Aftermath initialized
+[2023.01.06-15.26.30:840][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.01.06-15.26.31:197][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2070 Super (Max supported Feature Level 12_1, shader model 6.6)
+[2023.01.06-15.26.31:197][  0]LogD3D12RHI: Adapter has 8003MB of dedicated video memory, 0MB of dedicated system memory, and 8084MB of shared system memory, 1 output[s]
+[2023.01.06-15.26.31:244][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2023.01.06-15.26.31:244][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8084MB of shared system memory, 0 output[s]
+[2023.01.06-15.26.31:258][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.01.06-15.26.31:258][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8084MB of shared system memory, 0 output[s]
+[2023.01.06-15.26.31:260][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.01.06-15.26.31:260][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.06-15.26.31:261][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.06-15.26.31:262][  0]LogHAL: Display: Platform has ~ 16 GB [16953597952 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.06-15.26.31:264][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.06-15.26.31:264][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.06-15.26.31:264][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.06-15.26.31:266][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.06-15.26.31:266][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.06-15.26.31:267][  0]LogInit: Computer: PORTABLE-BEAST
+[2023.01.06-15.26.31:267][  0]LogInit: User: alepr
+[2023.01.06-15.26.31:267][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.01.06-15.26.31:267][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.06-15.26.31:268][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.01.06-15.26.31:268][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.06-15.26.31:268][  0]LogMemory: Process Physical Memory: 286.04 MB used, 309.08 MB peak
+[2023.01.06-15.26.31:268][  0]LogMemory: Process Virtual Memory: 252.10 MB used, 252.10 MB peak
+[2023.01.06-15.26.31:268][  0]LogMemory: Physical Memory: 8790.36 MB used,  7377.85 MB free, 16168.21 MB total
+[2023.01.06-15.26.31:268][  0]LogMemory: Virtual Memory: 11206.48 MB used,  28818.36 MB free, 40024.84 MB total
+[2023.01.06-15.26.31:268][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.06-15.26.31:339][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.06-15.26.31:394][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.06-15.26.31:398][  0]LogInit: Using OS detected language (it-IT).
+[2023.01.06-15.26.31:398][  0]LogInit: Using OS detected locale (it-IT).
+[2023.01.06-15.26.31:428][  0]LogTextLocalizationManager: No specific localization for 'it-IT' exists, so 'it' will be used for the language.
+[2023.01.06-15.26.31:429][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/it/Editor.locres' could not be opened for reading!
+[2023.01.06-15.26.31:429][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/it/EditorTutorials.locres' could not be opened for reading!
+[2023.01.06-15.26.31:429][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/it/Keywords.locres' could not be opened for reading!
+[2023.01.06-15.26.31:429][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/it/Category.locres' could not be opened for reading!
+[2023.01.06-15.26.31:430][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/it/ToolTips.locres' could not be opened for reading!
+[2023.01.06-15.26.31:431][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/it/PropertyNames.locres' could not be opened for reading!
+[2023.01.06-15.26.31:431][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/it/Engine.locres' could not be opened for reading!
+[2023.01.06-15.26.31:488][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.06-15.26.31:488][  0]LogWindowsTextInputMethodSystem:   - Italiano (Italia) - (Keyboard).
+[2023.01.06-15.26.31:488][  0]LogWindowsTextInputMethodSystem:   - Inglese (Stati Uniti d'America) - (Keyboard).
+[2023.01.06-15.26.31:488][  0]LogWindowsTextInputMethodSystem:   - Inglese (Stati Uniti d'America) - (Keyboard).
+[2023.01.06-15.26.31:488][  0]LogWindowsTextInputMethodSystem:   - Italiano (Italia) - Correzione input tocco (TSF IME).
+[2023.01.06-15.26.31:488][  0]LogWindowsTextInputMethodSystem: Activated input method: Italiano (Italia) - (Keyboard).
+[2023.01.06-15.26.31:556][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.06-15.26.31:556][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.06-15.26.34:930][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.01.06-15.26.34:936][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.01.06-15.26.34:936][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.01.06-15.26.35:078][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.01.06-15.26.35:166][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.01.06-15.26.35:178][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.01.06-15.26.35:210][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.01.06-15.26.35:272][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.01.06-15.26.35:272][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.01.06-15.26.35:330][  0]LogD3D12RHI:     GPU DeviceId: 0x1e91 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.06-15.26.35:330][  0]LogWindows: Attached monitors:
+[2023.01.06-15.26.35:330][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.01.06-15.26.35:330][  0]LogWindows: Found 1 attached monitors.
+[2023.01.06-15.26.35:330][  0]LogWindows: EnumDisplayDevices:
+[2023.01.06-15.26.35:330][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.01.06-15.26.35:330][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.01.06-15.26.35:330][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.01.06-15.26.35:330][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 Super' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.01.06-15.26.35:331][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070 Super' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.01.06-15.26.35:331][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070 Super' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.01.06-15.26.35:331][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070 Super' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.01.06-15.26.35:331][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.01.06-15.26.35:331][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2070 Super
+[2023.01.06-15.26.35:331][  0]LogD3D12RHI:   Driver Version: 527.37 (internal:31.0.15.2737, unified:527.37)
+[2023.01.06-15.26.35:331][  0]LogD3D12RHI:      Driver Date: 11-26-2022
+[2023.01.06-15.26.35:332][  0]LogRHI: Texture pool is 4558 MB (70% of 6511 MB)
+[2023.01.06-15.26.35:332][  0]LogD3D12RHI: Async texture creation enabled
+[2023.01.06-15.26.35:332][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.01.06-15.26.35:401][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.01.06-15.26.35:441][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Behaviour_GPTree.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Intermediate/TurnkeyReport_0.log" -log="C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Intermediate/TurnkeyLog_0.log" -project="C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Behaviour_GPTree.uproject"  -platform=all'
+[2023.01.06-15.26.35:442][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Behaviour_GPTree.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Intermediate/TurnkeyReport_0.log" -log="C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Intermediate/TurnkeyLog_0.log" -project="C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Behaviour_GPTree.uproject"  -platform=all" ]
+[2023.01.06-15.26.35:513][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.06-15.26.35:547][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.01.06-15.26.35:547][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.01.06-15.26.35:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.06-15.26.35:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.06-15.26.35:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.06-15.26.35:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.06-15.26.35:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.06-15.26.35:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.06-15.26.35:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.06-15.26.35:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.06-15.26.35:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.06-15.26.35:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.06-15.26.35:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.06-15.26.35:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.06-15.26.35:613][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.06-15.26.35:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.06-15.26.35:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.06-15.26.35:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.06-15.26.35:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.06-15.26.35:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.06-15.26.35:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.06-15.26.35:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.06-15.26.35:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.06-15.26.35:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.06-15.26.35:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.06-15.26.35:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.06-15.26.35:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.06-15.26.35:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.06-15.26.35:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.06-15.26.35:659][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.06-15.26.35:738][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.06-15.26.35:744][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.06-15.26.35:745][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.06-15.26.35:745][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.06-15.26.35:745][  0]LogTargetPlatformManager:   PCM
+[2023.01.06-15.26.35:751][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.06-15.26.35:751][  0]LogTargetPlatformManager:   BINKA
+[2023.01.06-15.26.35:751][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.06-15.26.35:751][  0]LogTargetPlatformManager:   OGG
+[2023.01.06-15.26.35:751][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.06-15.26.35:751][  0]LogTargetPlatformManager:   OPUS
+[2023.01.06-15.26.35:927][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.06-15.26.35:944][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.06-15.26.35:955][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.06-15.26.35:955][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.06-15.26.35:955][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.06-15.26.35:955][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.06-15.26.35:955][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.06-15.26.35:955][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.06-15.26.35:955][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.06-15.26.35:955][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.06-15.26.35:963][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.06-15.26.35:968][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.06-15.26.35:969][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.06-15.26.35:974][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.06-15.26.35:984][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.06-15.26.35:985][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.06-15.26.35:985][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.06-15.26.35:985][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.06-15.26.36:021][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.06-15.26.36:022][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.06-15.26.36:022][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.06-15.26.36:046][  0]LogDerivedDataCache: Speed tests for C:/Users/alepr/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2023.01.06-15.26.36:047][  0]LogDerivedDataCache: Display: Performance to C:/Users/alepr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.22ms. RandomReadSpeed=78.72MBs, RandomWriteSpeed=106.15MBs. Assigned SpeedClass 'Local'
+[2023.01.06-15.26.36:048][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alepr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.06-15.26.36:048][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.06-15.26.36:048][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.06-15.26.36:058][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.06-15.26.36:058][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.06-15.26.36:075][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Intermediate/Shaders/WorkingDirectory/680/).
+[2023.01.06-15.26.36:075][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alepr/AppData/Local/Temp/UnrealShaderWorkingDir/7C25B68C4219551128A4F7BBB6C3D638/'.
+[2023.01.06-15.26.36:076][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.06-15.26.36:076][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.01.06-15.26.40:404][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.01.06-15.26.40:404][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.06-15.26.40:409][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.06-15.26.40:500][  0]LogAssetRegistry: FAssetRegistry took 0.0309 seconds to start up
+[2023.01.06-15.26.40:515][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.06-15.26.41:025][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.06-15.26.41:038][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.06-15.26.41:499][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.06-15.26.41:499][  0]LogDeviceProfileManager: Active device profile: [000008BCAAF2EA80][000008BCA3D15000 50] WindowsEditor
+[2023.01.06-15.26.41:499][  0]LogDeviceProfileManager: Profiles: [000008BCAAF2E540][000008BCA3D1A000 50] Windows, [000008BCAAF2EA80][000008BCA3D15000 50] WindowsEditor, [000008BCAAF2E000][000008BCA3D12800 50] WindowsServer, [000008BCAAF2DC80][000008BCA1EDA000 50] WindowsClient, [000008BCAAF2AF00][000008BCA3D17800 50] IOS, [000008BCAAF2D580][000008BCAB440000 50] iPadAir2, [000008BCAAF2F500][000008BCAB447800 50] IPadPro, [000008BCAAF2F880][000008BCAB445000 50] iPadAir3, [000008BCAAF2B280][000008BCAB44A000 50] iPadAir4, [000008BCAAF2EFC0][000008BCAB44C800 50] iPadMini4, [000008BCAAF2C780][000008BC8B725000 50] iPadMini5, [000008BCAAF2C5C0][000008BCAB450000 50] iPadMini6, [000008BCAB4E2140][000008BCAB45A000 50] iPhone6S, [000008BCAB4E24C0][000008BCAB457800 50] iPhone7, [000008BCAB4E2840][000008BCAB455000 50] iPodTouch7, [000008BCAB4E1F80][000008BCAB45C800 50] iPhone6SPlus, [000008BCAB4E1C00][000008BCAB442800 50] iPhone7Plus, [000008BCAB4E1880][000008BCAB4A0000 50] iPhoneSE, [000008BCAB4E1500][000008BCAB4A5000 50] iPhone8, [000008BCAB4E1340][000008BCAB4A7800 50] iPhone8Plus, [000008BCAB4E2A00][000008BCAB4AA000 50] iPhoneX, [000008BCAB4E0380][000008BCAB4AC800 50] iPhoneXS, [000008BCAB4E1A40][000008BCAB452800 50] iPhoneXSMax, [000008BCAB4E2BC0][000008BCAB4B0000 50] iPhoneXR, [000008BCAB4E2D80][000008BCAB4B5000 50] iPhone11, [000008BCAB4E3480][000008BCAB4B7800 50] iPhone11Pro, [000008BCAB4E16C0][000008BCAB4BA000 50] iPhone11ProMax, [000008BCAB4E0E00][000008BCAB4BC800 50] iPhoneSE2, [000008BCAB4E0FC0][000008BCAB4A2800 50] iPhone12Mini, [000008BCAB4E0000][000008BCAB4C0000 50] iPhone12, [000008BCAB4E0A80][000008BCAB4C5000 50] iPhone12Pro, [000008BCAB4E2680][000008BCAB4C7800 50] iPhone12ProMax, [000008BCAB4E0540][000008BCAB4CA000 50] iPhone13Mini, [000008BCAB4E1DC0][000008BCAB4CC800 50] iPhone13, [000008BCAB4E4440][000008BCAB4B2800 50] iPhone13Pro, [000008BCAB4E3D40][000008BCAB4D0000 50] iPhone13ProMax, [000008BCAB4E32C0][000008BCAB4D5000 50] iPadPro105, [000008BCAB4E2F40][000008BCAB4D7800 50] iPadPro129, [000008BCAB4E3100][000008BCAB4DA000 50] iPadPro97, [000008BCAB4E39C0][000008BCAB4DC800 50] iPadPro2_129, [000008BCAB4E01C0][000008BCAB4C2800 50] iPad5, [000008BCAB4E3640][000008BCAB500000 50] iPad6, [000008BCAB4E2300][000008BCAB505000 50] iPad7, [000008BCAB4E5400][000008BCAB507800 50] iPad8, [000008BCAB4E4D00][000008BCAB50A000 50] iPad9, [000008BCAB4E4280][000008BCAB50C800 50] iPadPro11, [000008BCAB4E3F00][000008BCAB4D2800 50] iPadPro2_11, [000008BCAB4E40C0][000008BCAB510000 50] iPadPro3_11, [000008BCAB4E4980][000008BCAB515000 50] iPadPro3_129, [000008BCAB4E1180][000008BCAB517800 50] iPadPro4_129, [000008BCAB4E4600][000008BCAB51A000 50] iPadPro5_129, [000008BCAB4E08C0][000008BCAB51C800 50] AppleTV, [000008BCAB4E63C0][000008BCAB502800 50] AppleTV4K, [000008BCAB4E5CC0][000008BCAB520000 50] TVOS, [000008BCAB4E5240][000008BCAB527800 50] Mac, [000008BCAB4E8F80][000008BCAB525000 50] MacEditor, [000008BCAB4E8C00][000008BCAB52A000 50] MacClient, [000008BCAB4E0700][000008BCAB52C800 50] MacServer, [000008BCAB4E9140][000008BCAB550000 50] Linux, [000008BCAB4E6580][000008BCAB552800 50] LinuxEditor, [000008BCAB4E7540][000008BCAB557800 50] LinuxArm64Editor, [000008BCAB4E86C0][000008BCAB55A000 50] LinuxArm64, [000008BCAB4E9840][000008BCAB55C800 50] LinuxClient, [000008BCAB4E5B00][000008BCAB512800 50] LinuxArm64Client, [000008BCAB4E7000][000008BCAB555000 50] LinuxServer, [000008BCAB4E7A80][000008BCAB530000 50] LinuxArm64Server, [000008BCAB4E8DC0][000008BCAB535000 50] Android, [000008BCAB4E6040][000008BCAB537800 50] Android_Preview_OpenGL, [000008BCAB4E71C0][000008BCAB53A000 50] Android_Preview_Vulkan, [000008BCAB4E9300][000008BCAB53C800 50] Android_Low, [000008BCAB4E8340][000008BCAB522800 50] Android_Mid, [000008BCAB4E7380][000008BCAB540000 50] Android_High, [000008BCAB4E94C0][000008BCAB545000 50] Android_Default, [000008BCAB4E9A00][000008BCAB547800 50] Android_Adreno4xx, [000008BCAB4E7E00][000008BCAB54A000 50] Android_Adreno5xx_Low, [000008BCAB4E55C0][000008BCAB54C800 50] Android_Adreno5xx, [000008BCAB4E7700][000008BCAB532800 50] Android_Adreno6xx, [000008BCAB4E78C0][000008BCAB560000 50] Android_Adreno6xx_Vulkan, [000008BCAB4E47C0][000008BCAB565000 50] Android_Adreno7xx, [000008BCAB4E5E80][000008BCAB567800 50] Android_Adreno7xx_Vulkan, [000008BCAB4E6AC0][000008BCAB56A000 50] Android_Mali_T6xx, [000008BCAB4E3B80][000008BCAB56C800 50] Android_Mali_T7xx, [000008BCAB4E5780][000008BCAB542800 50] Android_Mali_T8xx, [000008BCAB4E4EC0][000008BCAB570000 50] Android_Mali_G71, [000008BCAB4E4B40][000008BCAB575000 50] Android_Mali_G72, [000008BCAB4E5080][000008BCAB577800 50] Android_Mali_G72_Vulkan, [000008BCAB4E8180][000008BCAB57A000 50] Android_Mali_G76, [000008BCAB4E8880][000008BCAB57C800 50] Android_Mali_G76_Vulkan, [000008BCAB4EA2C0][000008BCAB562800 50] Android_Mali_G77, [000008BCAB4E9BC0][000008BCAB580000 50] Android_Mali_G77_Vulkan, [000008BCAB4E5940][000008BCAB585000 50] Android_Mali_G78, [000008BCAB4E6200][000008BCAB587800 50] Android_Mali_G78_Vulkan, [000008BCAB4E9680][000008BCAB58A000 50] Android_Mali_G710, [000008BCAB4E0C40][000008BCAB58C800 50] Android_Mali_G710_Vulkan, [000008BCAB4E6740][000008BCAB572800 50] Android_Xclipse_920, [000008BCAB4E7C40][000008BCAB590000 50] Android_Xclipse_920_Vulkan, [000008BCAB4E7FC0][000008BCAB595000 50] Android_Vulkan_SM5, [000008BCAB4EB280][000008BCAB597800 50] Android_PowerVR_G6xxx, [000008BCAB4EAB80][000008BCAB59A000 50] Android_PowerVR_GT7xxx, [000008BCAB4EBB40][000008BCAB59C800 50] Android_PowerVR_GE8xxx, [000008BCAB4EA640][000008BCAB582800 50] Android_PowerVR_GM9xxx, [000008BCAB4EB440][000008BCAB5A0000 50] Android_PowerVR_GM9xxx_Vulkan, [000008BCAB4E9F40][000008BCAB5A5000 50] Android_TegraK1, [000008BCAB4E8A40][000008BCAB5A7800 50] Android_Unknown_Vulkan, [000008BCAB4E6900][000008BCAB5AA000 50] Oculus_Quest, [000008BCAB4EC240][000008BCAB5AC800 50] Oculus_Quest2, [000008BCAB4E6E40][000008BCAB592800 50] HoloLens, 
+[2023.01.06-15.26.41:499][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.06-15.26.41:514][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Valid, Installed=r21e, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="InstalledSdk_ValidVersionExists")
+[2023.01.06-15.26.41:514][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22000.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.01.06-15.26.41:600][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.01.06-15.26.41:989][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.06-15.26.41:989][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.06-15.26.41:989][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.06-15.26.41:989][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.06-15.26.41:990][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.06-15.26.42:044][  0]LogNetVersion: Behaviour_GPTree 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2376579386)
+[2023.01.06-15.26.42:366][  0]LogSlate: Border
+[2023.01.06-15.26.42:366][  0]LogSlate: BreadcrumbButton
+[2023.01.06-15.26.42:366][  0]LogSlate: Default
+[2023.01.06-15.26.42:366][  0]LogSlate: Icons.Save
+[2023.01.06-15.26.42:366][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.06-15.26.42:366][  0]LogSlate: ListView
+[2023.01.06-15.26.42:366][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.06-15.26.42:366][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.06-15.26.42:366][  0]LogSlate: TableView.DarkRow
+[2023.01.06-15.26.42:366][  0]LogSlate: TableView.Row
+[2023.01.06-15.26.42:366][  0]LogSlate: TreeView
+[2023.01.06-15.26.42:942][  0]SourceControl: Source control is disabled
+[2023.01.06-15.26.43:017][  0]SourceControl: Source control is disabled
+[2023.01.06-15.26.43:017][  0]SourceControl: Source control is disabled
+[2023.01.06-15.26.43:246][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.01.06-15.26.43:246][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.01.06-15.26.43:246][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.06-15.26.44:504][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E55F9C8649E3921D25DDFE8383014D3D | Instance: 70ED8C4C4D4D014E47C7A7BA685FB164 (PORTABLE-BEAST-680).
+[2023.01.06-15.26.44:734][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.06-15.26.44:753][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.06-15.26.44:864][  0]LogPython: Using Python 3.9.7
+[2023.01.06-15.26.46:961][  0]SourceControl: Source control is disabled
+[2023.01.06-15.26.46:972][  0]SourceControl: Source control is disabled
+[2023.01.06-15.26.47:012][  0]SourceControl: Source control is disabled
+[2023.01.06-15.26.47:045][  0]LogUProjectInfo: Found projects:
+[2023.01.06-15.26.47:455][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.06-15.26.47:499][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.06-15.26.47:499][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.06-15.26.47:612][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.06-15.26.47:843][  0]LogCollectionManager: Loaded 0 collections in 0.003833 seconds
+[2023.01.06-15.26.48:064][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/Collections/' took 0.00s
+[2023.01.06-15.26.48:064][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/Developers/alepr/Collections/' took 0.00s
+[2023.01.06-15.26.48:064][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/Collections/' took 0.00s
+[2023.01.06-15.26.48:653][  0]LogEngine: Initializing Engine...
+[2023.01.06-15.26.48:687][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.01.06-15.26.48:696][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2023.01.06-15.26.49:155][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.06-15.26.49:159][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.06-15.26.49:193][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-15.26.49:280][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.06-15.26.49:297][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.06-15.26.49:338][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.06-15.26.49:340][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.06-15.26.49:340][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.06-15.26.49:342][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.06-15.26.49:342][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.06-15.26.49:344][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.06-15.26.49:344][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.06-15.26.49:344][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.06-15.26.49:344][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.06-15.26.49:344][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.06-15.26.49:344][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.06-15.26.49:344][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.06-15.26.49:345][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.06-15.26.49:347][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.06-15.26.49:347][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.06-15.26.49:347][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.06-15.26.49:369][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.06-15.26.50:651][  0]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (Realtek(R) Audio)
+[2023.01.06-15.26.50:654][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.06-15.26.50:660][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.06-15.26.50:660][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.06-15.26.50:663][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.06-15.26.50:663][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2023.01.06-15.26.50:665][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.06-15.26.50:665][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.06-15.26.50:666][  0]LogInit: FAudioDevice initialized.
+[2023.01.06-15.26.50:666][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.06-15.26.50:667][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.06-15.26.50:667][  0]LogInit: Texture streaming: Enabled
+[2023.01.06-15.26.50:754][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.06-15.26.50:771][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.06-15.26.50:818][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.06-15.26.50:836][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.06-15.26.50:836][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.06-15.26.53:543][  0]LogLiveCoding: Display: First instance in process group "UE_Behaviour_GPTree_0x254da611", spawning console
+[2023.01.06-15.26.53:543][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.06-15.26.53:543][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.06-15.26.53:582][  0]LogInit: Transaction tracking system initialized
+[2023.01.06-15.26.53:766][  0]BlueprintLog: New page: Editor Load
+[2023.01.06-15.26.54:268][  0]LocalizationService: Localization service is disabled
+[2023.01.06-15.26.54:388][  0]TimingProfiler: Initialize
+[2023.01.06-15.26.54:389][  0]TimingProfiler: OnSessionChanged
+[2023.01.06-15.26.54:390][  0]LoadingProfiler: Initialize
+[2023.01.06-15.26.54:390][  0]LoadingProfiler: OnSessionChanged
+[2023.01.06-15.26.54:392][  0]NetworkingProfiler: Initialize
+[2023.01.06-15.26.54:396][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.06-15.26.54:396][  0]MemoryProfiler: Initialize
+[2023.01.06-15.26.54:396][  0]MemoryProfiler: OnSessionChanged
+[2023.01.06-15.26.55:871][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/' took 0.04s
+[2023.01.06-15.26.55:871][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.06-15.26.56:037][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.06-15.26.56:051][  0]SourceControl: Source control is disabled
+[2023.01.06-15.26.56:055][  0]LogUnrealEdMisc: Loading editor; pre map load, took 30.318
+[2023.01.06-15.26.56:067][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.06-15.26.56:068][  0]LightingResults: New page: Lighting Build
+[2023.01.06-15.26.56:086][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-15.26.56:089][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-15.26.56:090][  0]MapCheck: New page: Map Check
+[2023.01.06-15.26.56:090][  0]LightingResults: New page: Lighting Build
+[2023.01.06-15.26.56:117][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.06-15.26.56:135][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.01.06-15.26.56:513][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.01.06-15.26.56:531][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-15.26.56:532][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.01.06-15.26.56:539][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.06-15.26.56:541][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.01.06-15.26.57:524][  0]LogWorldPartition: Display: WorldPartition initialize took 984 ms
+[2023.01.06-15.26.57:583][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.06-15.26.57:602][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.01.06-15.26.57:604][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.06-15.26.57:605][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,073ms to complete.
+[2023.01.06-15.26.57:606][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 1.541
+[2023.01.06-15.26.57:669][  0]LogUnrealEdMisc: Total Editor Startup Time, took 31.934
+[2023.01.06-15.26.57:669][  0]LogShaderCompilers: Display: ================================================
+[2023.01.06-15.26.57:670][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.06-15.26.57:670][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.06-15.26.57:670][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.06-15.26.57:670][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.06-15.26.57:670][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.06-15.26.57:670][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.06-15.26.57:670][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.06-15.26.57:670][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.06-15.26.57:670][  0]LogShaderCompilers: Display: ================================================
+[2023.01.06-15.26.57:901][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.01.06-15.26.58:120][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.01.06-15.26.58:899][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.26.58:900][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.26.58:900][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.26.58:900][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.26.58:900][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.26.58:900][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.26.58:900][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.26.58:900][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.26.58:900][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.26.58:900][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.26.58:900][  0]LogSlate: The tab "BottomLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.26.58:900][  0]LogSlate: The tab "BottomLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.26.58:900][  0]LogSlate: The tab "BottomLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.26.58:930][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-15.26.58:943][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-15.26.58:952][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-15.26.58:963][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-15.26.59:068][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.06-15.26.59:069][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.06-15.26.59:074][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.06-15.26.59:074][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.06-15.26.59:077][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.06-15.26.59:077][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.06-15.26.59:079][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.06-15.26.59:079][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.06-15.26.59:085][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.06-15.26.59:085][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.06-15.26.59:086][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.06-15.26.59:087][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.06-15.26.59:090][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.06-15.26.59:090][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.06-15.26.59:092][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.06-15.26.59:092][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.06-15.26.59:095][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.06-15.26.59:095][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.06-15.26.59:097][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.06-15.26.59:097][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.06-15.26.59:098][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.01.06-15.26.59:871][  0]LogCEFBrowser: CEF GPU acceleration enabled
+[2023.01.06-15.27.00:355][  0]LogSlate: The tab "/Game/UMG/RecordPanel.RecordPanel_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.27.00:355][  0]LogSlate: The tab "/Game/Blueprints/UI/Debug/Debug_UDP_Windget.Debug_UDP_Windget_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.27.00:355][  0]LogSlate: The tab "TopRightModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.27.00:355][  0]LogSlate: The tab "TopRightModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.27.00:355][  0]LogSlate: The tab "TopRightModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.27.00:550][  0]LogSlate: The tab "EditorWebBrowser1" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.27.00:550][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.06-15.27.00:622][  0]LogSlate: Took 0.001026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.06-15.27.02:088][  0]LogSlate: Took 0.001408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.06-15.27.02:090][  0]LogSlate: Took 0.000878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.06-15.27.02:093][  0]LogSlate: Took 0.001014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.06-15.27.02:095][  0]LogSlate: Took 0.000929 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.06-15.27.02:140][  0]LogViewport: Scene viewport resized to 1419x523, mode Windowed.
+[2023.01.06-15.27.02:220][  0]LogSlate: Took 0.001193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.06-15.27.03:354][  0]LogStall: Startup...
+[2023.01.06-15.27.03:356][  0]LogStall: Startup complete.
+[2023.01.06-15.27.03:387][  0]LogLoad: (Engine Initialization) Total time: 37.65 seconds
+[2023.01.06-15.27.03:387][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.06-15.27.03:555][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.06-15.27.05:267][  0]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={13DAB88E-4945-F14C-9F83-01950409437E}
+[2023.01.06-15.27.05:385][  0]LogAssetRegistry: Asset discovery search completed in 24.8906 seconds
+[2023.01.06-15.27.05:402][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.01.06-15.27.05:409][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.06-15.27.06:006][  2]LogPython: Display: Generating Python API stub file...
+[2023.01.06-15.27.06:007][  2]LogPython: Display:   ...generating Python API: glue code
+[2023.01.06-15.27.06:550][  2]LogPython: Display:   ...generating Python API: additional code
+[2023.01.06-15.27.06:777][  2]LogPython: Display:   ...generated: C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Intermediate/PythonStub/unreal.py
+[2023.01.06-15.27.08:193][ 20]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GPT_Code/Blueprints/GPT_BehaviourTree.GPT_BehaviourTree
+[2023.01.06-15.27.08:195][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-15.27.11:134][ 20]LogSlate: Took 0.000885 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.06-15.27.11:910][ 22]LogPython: Display: Generating Python API stub file...
+[2023.01.06-15.27.11:911][ 22]LogPython: Display:   ...generating Python API: glue code
+[2023.01.06-15.27.12:398][ 22]LogPython: Display:   ...generating Python API: additional code
+[2023.01.06-15.27.12:472][ 22]LogPython: Display:   ...generated: C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Intermediate/PythonStub/unreal.py
+[2023.01.06-15.27.23:949][137]LogContentBrowser: Attempting asset rename: GPT_Component -> GPT_Request_Component
+[2023.01.06-15.27.24:010][137]LogMetaData: Removing '/Game/GPT_Code/Blueprints/GPT_Request_Component.GPT_Request_Component_C' ref from Metadata '/Game/GPT_Code/Blueprints/GPT_Component.PackageMetaData'
+[2023.01.06-15.27.24:010][137]LogMetaData: Removing '/Game/GPT_Code/Blueprints/GPT_Request_Component.GPT_Request_Component:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GPT_Code/Blueprints/GPT_Component.PackageMetaData'
+[2023.01.06-15.27.24:010][137]LogMetaData: Removing '/Game/GPT_Code/Blueprints/GPT_Request_Component.GPT_Request_Component:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GPT_Code/Blueprints/GPT_Component.PackageMetaData'
+[2023.01.06-15.27.24:010][137]LogMetaData: Removing '/Game/GPT_Code/Blueprints/GPT_Request_Component.GPT_Request_Component:RequestResponse.K2Node_FunctionEntry_0' ref from Metadata '/Game/GPT_Code/Blueprints/GPT_Component.PackageMetaData'
+[2023.01.06-15.27.24:010][137]LogMetaData: Removing '/Game/GPT_Code/Blueprints/GPT_Request_Component.GPT_Request_Component:RequestResponse.K2Node_FunctionResult_1' ref from Metadata '/Game/GPT_Code/Blueprints/GPT_Component.PackageMetaData'
+[2023.01.06-15.27.24:010][137]LogMetaData: Removing '/Game/GPT_Code/Blueprints/GPT_Request_Component.SKEL_GPT_Request_Component_C:ReceiveBeginPlay' ref from Metadata '/Game/GPT_Code/Blueprints/GPT_Component.PackageMetaData'
+[2023.01.06-15.27.24:010][137]LogMetaData: Removing '/Game/GPT_Code/Blueprints/GPT_Request_Component.SKEL_GPT_Request_Component_C:ReceiveTick' ref from Metadata '/Game/GPT_Code/Blueprints/GPT_Component.PackageMetaData'
+[2023.01.06-15.27.24:010][137]LogMetaData: Removing '/Game/GPT_Code/Blueprints/GPT_Request_Component.SKEL_GPT_Request_Component_C:RequestResponse' ref from Metadata '/Game/GPT_Code/Blueprints/GPT_Component.PackageMetaData'
+[2023.01.06-15.27.24:010][137]LogMetaData: Removing '/Game/GPT_Code/Blueprints/GPT_Request_Component.SKEL_GPT_Request_Component_C' ref from Metadata '/Game/GPT_Code/Blueprints/GPT_Component.PackageMetaData'
+[2023.01.06-15.27.24:010][137]LogMetaData: Removing '/Game/GPT_Code/Blueprints/GPT_Request_Component.GPT_Request_Component_C:RequestResponse' ref from Metadata '/Game/GPT_Code/Blueprints/GPT_Component.PackageMetaData'
+[2023.01.06-15.27.24:329][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GPT_Code/UI/NPC_UI" FILE="../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/UI/NPC_UI.uasset" SILENT=true
+[2023.01.06-15.27.24:338][137]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.008479 seconds
+[2023.01.06-15.27.24:375][137]LogSavePackage: Moving output files for package: /Game/GPT_Code/UI/NPC_UI
+[2023.01.06-15.27.24:376][137]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/NPC_UI1BE7DC8E49F2838B39B7E889C7A75456.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/UI/NPC_UI.uasset'
+[2023.01.06-15.27.24:381][137]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode
+[2023.01.06-15.27.24:382][137]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/BP_FirstPersonGameMode8B909CD14AAF94944151D194AF5BD151.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset'
+[2023.01.06-15.27.24:387][137]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/GPT_GameMode
+[2023.01.06-15.27.24:388][137]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/GPT_GameMode669C94D3429A810449BA0E90BD969518.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/GPT_GameMode.uasset'
+[2023.01.06-15.27.24:405][137]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/GPT_Request_Component
+[2023.01.06-15.27.24:405][137]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/GPT_Request_Component97CB1A0E4D4958892443CB8BE1B29795.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/GPT_Request_Component.uasset'
+[2023.01.06-15.27.24:637][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.01.06-15.27.24:680][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.01.06-15.27.24:721][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.01.06-15.27.24:730][137]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.06-15.27.24:731][137]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/GPT_Request_Component.GPT_Request_Component
+[2023.01.06-15.27.24:731][137]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+[2023.01.06-15.27.24:732][137]LogContentValidation: Display: Validating WidgetBlueprint /Game/GPT_Code/UI/NPC_UI.NPC_UI
+[2023.01.06-15.27.24:733][137]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/GPT_GameMode.GPT_GameMode
+[2023.01.06-15.27.39:211][284]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2023.01.06-15.27.39:220][284]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2023.01.06-15.27.39:249][285]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2023.01.06-15.27.45:365][379]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> ActionsEnum
+[2023.01.06-15.27.45:367][379]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2023.01.06-15.27.47:785][411]LogSlate: Took 0.001897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.01.06-15.27.52:343][484]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/GPT_Code/Blueprints/ActionsEnum.ActionsEnum
+[2023.01.06-15.28.41:220][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.01.06-15.28.41:470][130]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/ActionsEnum
+[2023.01.06-15.28.41:471][130]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/ActionsEnumD0EDA2084674B79994D904B46F71B733.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/ActionsEnum.uasset'
+[2023.01.06-15.28.41:520][130]AssetCheck: New page: Asset Save: ActionsEnum
+[2023.01.06-15.28.41:520][130]LogContentValidation: Display: Validating UserDefinedEnum /Game/GPT_Code/Blueprints/ActionsEnum.ActionsEnum
+[2023.01.06-15.28.51:932][268]BlueprintLog: New page: Compile GPT_BehaviourTree
+[2023.01.06-15.28.51:933][268]LogClass: Warning: Array Inner Type mismatch in PossibleActions of PossibleActions - Previous (StrProperty) Current(ByteProperty) for package:  FObjectReader
+[2023.01.06-15.28.52:022][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.01.06-15.28.53:061][277]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/GPT_BehaviourTree
+[2023.01.06-15.28.53:062][277]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/GPT_BehaviourTree17F8B5DA411BA65CC9988B80F9F7E6EF.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/GPT_BehaviourTree.uasset'
+[2023.01.06-15.28.53:167][277]AssetCheck: New page: Asset Save: GPT_BehaviourTree
+[2023.01.06-15.28.53:167][277]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/GPT_BehaviourTree.GPT_BehaviourTree
+[2023.01.06-15.28.59:133][354]BlueprintLog: New page: Compile GPT_BehaviourTree
+[2023.01.06-15.28.59:224][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.01.06-15.28.59:985][361]LogDerivedDataCache: C:/Users/alepr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.934 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.06-15.29.00:046][361]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/GPT_BehaviourTree
+[2023.01.06-15.29.00:047][361]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/GPT_BehaviourTree012CE68541FA472D7AE1BAB299E1424D.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/GPT_BehaviourTree.uasset'
+[2023.01.06-15.29.00:156][361]AssetCheck: New page: Asset Save: GPT_BehaviourTree
+[2023.01.06-15.29.00:156][361]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/GPT_BehaviourTree.GPT_BehaviourTree
+[2023.01.06-15.29.54:640][531]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/GPT_BehaviourTree
+[2023.01.06-15.29.54:640][531]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/GPT_BehaviourTreeA386F9A54648FB0D88D2FD9FEE9C5564.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/GPT_BehaviourTree.uasset'
+[2023.01.06-15.29.54:655][531]AssetCheck: New page: Asset Save: GPT_BehaviourTree
+[2023.01.06-15.29.54:655][531]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/GPT_BehaviourTree.GPT_BehaviourTree
+[2023.01.06-15.29.56:277][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.01.06-15.29.56:348][647]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/WW/PRIER6MYZBBAZ6OKK9DUJ0
+[2023.01.06-15.29.56:349][647]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/PRIER6MYZBBAZ6OKK9DUJ08E728262422AC11E293B67BE85771789.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/WW/PRIER6MYZBBAZ6OKK9DUJ0.uasset'
+[2023.01.06-15.29.56:352][647]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/WU/4IPANZ2286N8FDFSPYKPY0
+[2023.01.06-15.29.56:353][647]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/4IPANZ2286N8FDFSPYKPY0AF5BBB984A9F9133E18DA0988D3B7E73.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/WU/4IPANZ2286N8FDFSPYKPY0.uasset'
+[2023.01.06-15.29.56:370][647]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.06-15.29.56:370][647]LogContentValidation: Display: Validating BP_GPT_NPC_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_GPT_NPC_C_UAID_9C2976F24981145A01_1730439719
+[2023.01.06-15.29.56:370][647]LogContentValidation: Display: Validating BP_GPT_NPC_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_GPT_NPC_C_UAID_9C2976F24981185A01_1975984424
+[2023.01.06-15.30.20:571][420]BlueprintLog: New page: Compile GPT_BehaviourTree
+[2023.01.06-15.30.20:625][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.01.06-15.30.21:243][458]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/GPT_BehaviourTree
+[2023.01.06-15.30.21:244][458]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/GPT_BehaviourTree9CDB0AB9403CBF02D1CD71B6924179F1.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/GPT_BehaviourTree.uasset'
+[2023.01.06-15.30.21:258][458]AssetCheck: New page: Asset Save: GPT_BehaviourTree
+[2023.01.06-15.30.21:258][458]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/GPT_BehaviourTree.GPT_BehaviourTree
+[2023.01.06-15.30.41:198][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.01.06-15.30.41:270][835]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/WW/PRIER6MYZBBAZ6OKK9DUJ0
+[2023.01.06-15.30.41:271][835]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/PRIER6MYZBBAZ6OKK9DUJ0FC6C7766494FE9F9464114A71C5830D7.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/WW/PRIER6MYZBBAZ6OKK9DUJ0.uasset'
+[2023.01.06-15.30.41:274][835]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/WU/4IPANZ2286N8FDFSPYKPY0
+[2023.01.06-15.30.41:275][835]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/4IPANZ2286N8FDFSPYKPY0010C3F2F4CAB47CE2D85649A9C8E9454.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/WU/4IPANZ2286N8FDFSPYKPY0.uasset'
+[2023.01.06-15.30.41:279][835]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/GPT_BehaviourTree
+[2023.01.06-15.30.41:279][835]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/GPT_BehaviourTree86CE40B0485A769F59E064B56ECEB561.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/GPT_BehaviourTree.uasset'
+[2023.01.06-15.30.41:295][835]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.06-15.30.41:295][835]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/GPT_BehaviourTree.GPT_BehaviourTree
+[2023.01.06-15.30.41:295][835]LogContentValidation: Display: Validating BP_GPT_NPC_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_GPT_NPC_C_UAID_9C2976F24981145A01_1730439719
+[2023.01.06-15.30.41:295][835]LogContentValidation: Display: Validating BP_GPT_NPC_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_GPT_NPC_C_UAID_9C2976F24981185A01_1975984424
+[2023.01.06-15.31.03:372][362]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2023.01.06-15.31.03:380][362]LogContentBrowser: Creating deferred item: NewInterface
+[2023.01.06-15.31.03:393][363]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2023.01.06-15.31.09:708][861]LogContentBrowser: Attempting asset rename: NewInterface -> NewInterface
+[2023.01.06-15.31.09:708][861]LogContentBrowser: End creating deferred item NewInterface
+[2023.01.06-15.31.12:652][ 67]LogContentBrowser: Attempting asset rename: GPT_BehaviourTree -> GPT_BehaviourTree
+[2023.01.06-15.31.15:876][263]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2023.01.06-15.31.15:883][263]LogContentBrowser: Creating deferred item: NewInterface
+[2023.01.06-15.31.15:895][264]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2023.01.06-15.31.28:864][255]LogContentBrowser: Attempting asset rename: NewInterface -> BehaviourTree_Interface
+[2023.01.06-15.31.28:867][255]LogContentBrowser: End creating deferred item NewInterface
+[2023.01.06-15.31.29:824][314]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/BehaviourTree_Interface
+[2023.01.06-15.31.29:824][314]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/BehaviourTree_Interface76795173482AD56DD2D0F78C63B90CB5.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/BehaviourTree_Interface.uasset'
+[2023.01.06-15.31.29:838][314]AssetCheck: New page: Asset Save: BehaviourTree_Interface
+[2023.01.06-15.31.29:838][314]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/BehaviourTree_Interface.BehaviourTree_Interface
+[2023.01.06-15.31.31:052][391]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GPT_Code/Blueprints/BehaviourTree_Interface.BehaviourTree_Interface
+[2023.01.06-15.31.31:053][391]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-15.31.51:593][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.01.06-15.31.51:667][812]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/BehaviourTree_Interface
+[2023.01.06-15.31.51:668][812]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/BehaviourTree_Interface2F74B78D45963CBC1422B2985B958928.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/BehaviourTree_Interface.uasset'
+[2023.01.06-15.31.51:683][812]AssetCheck: New page: Asset Save: BehaviourTree_Interface
+[2023.01.06-15.31.51:683][812]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/BehaviourTree_Interface.BehaviourTree_Interface
+[2023.01.06-15.32.03:777][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.01.06-15.32.03:854][596]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/BehaviourTree_Interface
+[2023.01.06-15.32.03:855][596]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/BehaviourTree_Interface96C11DBB4F40D605650258B459CDB1D3.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/BehaviourTree_Interface.uasset'
+[2023.01.06-15.32.03:872][596]AssetCheck: New page: Asset Save: BehaviourTree_Interface
+[2023.01.06-15.32.03:872][596]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/BehaviourTree_Interface.BehaviourTree_Interface
+[2023.01.06-15.32.11:028][167]BlueprintLog: New page: Compile BehaviourTree_Interface
+[2023.01.06-15.32.11:065][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.01.06-15.32.11:617][200]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/BehaviourTree_Interface
+[2023.01.06-15.32.11:618][200]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/BehaviourTree_Interface96CB015843A591235B566CBFD2988590.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/BehaviourTree_Interface.uasset'
+[2023.01.06-15.32.11:633][200]AssetCheck: New page: Asset Save: BehaviourTree_Interface
+[2023.01.06-15.32.11:633][200]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/BehaviourTree_Interface.BehaviourTree_Interface
+[2023.01.06-15.32.39:993][ 65]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GPT_Code/Blueprints/BP_GPT_NPC.BP_GPT_NPC
+[2023.01.06-15.32.39:993][ 65]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-15.32.48:753][417]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.06-15.32.54:902][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.01.06-15.32.54:979][818]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/WW/PRIER6MYZBBAZ6OKK9DUJ0
+[2023.01.06-15.32.54:980][818]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/PRIER6MYZBBAZ6OKK9DUJ0B70CBD9F4773ED2AFD5D36A3D75E4D63.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/WW/PRIER6MYZBBAZ6OKK9DUJ0.uasset'
+[2023.01.06-15.32.54:984][818]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/WU/4IPANZ2286N8FDFSPYKPY0
+[2023.01.06-15.32.54:985][818]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/4IPANZ2286N8FDFSPYKPY089ECB7F7429DCC4E41709E86E9624D94.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/WU/4IPANZ2286N8FDFSPYKPY0.uasset'
+[2023.01.06-15.32.55:051][818]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/BP_GPT_NPC
+[2023.01.06-15.32.55:051][818]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/BP_GPT_NPCF380CDFF4DCA38C2CA43F2B7593ECB4F.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/BP_GPT_NPC.uasset'
+[2023.01.06-15.32.55:068][818]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.06-15.32.55:068][818]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/BP_GPT_NPC.BP_GPT_NPC
+[2023.01.06-15.32.55:068][818]LogContentValidation: Display: Validating BP_GPT_NPC_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_GPT_NPC_C_UAID_9C2976F24981145A01_1730439719
+[2023.01.06-15.32.55:068][818]LogContentValidation: Display: Validating BP_GPT_NPC_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_GPT_NPC_C_UAID_9C2976F24981185A01_1975984424
+[2023.01.06-15.33.03:876][407]BlueprintLog: New page: Compile BP_GPT_NPC
+[2023.01.06-15.33.04:001][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.01.06-15.33.04:517][428]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/BP_GPT_NPC
+[2023.01.06-15.33.04:518][428]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/BP_GPT_NPC8312731D48F3134903D7D48144719979.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/BP_GPT_NPC.uasset'
+[2023.01.06-15.33.04:533][428]AssetCheck: New page: Asset Save: BP_GPT_NPC
+[2023.01.06-15.33.04:534][428]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/BP_GPT_NPC.BP_GPT_NPC
+[2023.01.06-15.33.38:855][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.01.06-15.33.38:934][666]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/WW/PRIER6MYZBBAZ6OKK9DUJ0
+[2023.01.06-15.33.38:935][666]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/PRIER6MYZBBAZ6OKK9DUJ083EB927E4C9A48488E572FBD268199B8.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/WW/PRIER6MYZBBAZ6OKK9DUJ0.uasset'
+[2023.01.06-15.33.38:939][666]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/WU/4IPANZ2286N8FDFSPYKPY0
+[2023.01.06-15.33.38:940][666]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/4IPANZ2286N8FDFSPYKPY020218B994E9A5385EA9D6787FA125FD8.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/WU/4IPANZ2286N8FDFSPYKPY0.uasset'
+[2023.01.06-15.33.38:946][666]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/GPT_BehaviourTree
+[2023.01.06-15.33.38:947][666]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/GPT_BehaviourTree5D0929264BDD9B26ACBFF5AA55E828CB.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/GPT_BehaviourTree.uasset'
+[2023.01.06-15.33.38:963][666]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.06-15.33.38:963][666]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/GPT_BehaviourTree.GPT_BehaviourTree
+[2023.01.06-15.33.38:964][666]LogContentValidation: Display: Validating BP_GPT_NPC_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_GPT_NPC_C_UAID_9C2976F24981145A01_1730439719
+[2023.01.06-15.33.38:964][666]LogContentValidation: Display: Validating BP_GPT_NPC_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_GPT_NPC_C_UAID_9C2976F24981185A01_1975984424
+[2023.01.06-15.33.47:505][206]BlueprintLog: New page: Compile GPT_BehaviourTree
+[2023.01.06-15.33.47:596][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.01.06-15.33.48:131][235]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/GPT_BehaviourTree
+[2023.01.06-15.33.48:132][235]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/GPT_BehaviourTreeD6320CBD4A1B1800B887089FADF09683.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/GPT_BehaviourTree.uasset'
+[2023.01.06-15.33.48:149][235]AssetCheck: New page: Asset Save: GPT_BehaviourTree
+[2023.01.06-15.33.48:149][235]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/GPT_BehaviourTree.GPT_BehaviourTree
+[2023.01.06-15.35.20:893][743]BlueprintLog: New page: Compile GPT_BehaviourTree
+[2023.01.06-15.35.20:965][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.06-15.35.21:483][770]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/GPT_BehaviourTree
+[2023.01.06-15.35.21:484][770]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/GPT_BehaviourTree583BF6EA4666815CB3FEDB90E2F71A11.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/GPT_BehaviourTree.uasset'
+[2023.01.06-15.35.21:502][770]AssetCheck: New page: Asset Save: GPT_BehaviourTree
+[2023.01.06-15.35.21:502][770]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/GPT_BehaviourTree.GPT_BehaviourTree
+[2023.01.06-15.35.34:406][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.06-15.35.34:509][551]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/WW/PRIER6MYZBBAZ6OKK9DUJ0
+[2023.01.06-15.35.34:510][551]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/PRIER6MYZBBAZ6OKK9DUJ0461A75134F1697E4D3DD5EA8F2AF4A8F.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/WW/PRIER6MYZBBAZ6OKK9DUJ0.uasset'
+[2023.01.06-15.35.34:515][551]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/WU/4IPANZ2286N8FDFSPYKPY0
+[2023.01.06-15.35.34:516][551]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/4IPANZ2286N8FDFSPYKPY05CC222DB41677F37A0CA33A6E04A8C2F.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/WU/4IPANZ2286N8FDFSPYKPY0.uasset'
+[2023.01.06-15.35.34:564][551]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/BP_GPT_NPC
+[2023.01.06-15.35.34:565][551]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/BP_GPT_NPC779442EE4E76AC139574FBA25FBC9D71.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/BP_GPT_NPC.uasset'
+[2023.01.06-15.35.34:587][551]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.06-15.35.34:588][551]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/BP_GPT_NPC.BP_GPT_NPC
+[2023.01.06-15.35.34:588][551]LogContentValidation: Display: Validating BP_GPT_NPC_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_GPT_NPC_C_UAID_9C2976F24981145A01_1730439719
+[2023.01.06-15.35.34:588][551]LogContentValidation: Display: Validating BP_GPT_NPC_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_GPT_NPC_C_UAID_9C2976F24981185A01_1975984424
+[2023.01.06-15.35.35:197][583]BlueprintLog: New page: Compile GPT_BehaviourTree
+[2023.01.06-15.35.35:285][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.01.06-15.35.35:749][606]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/GPT_BehaviourTree
+[2023.01.06-15.35.35:750][606]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/GPT_BehaviourTreeFDA9F58F4FE54F7D2D277FB729E28E1C.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/GPT_BehaviourTree.uasset'
+[2023.01.06-15.35.35:765][606]AssetCheck: New page: Asset Save: GPT_BehaviourTree
+[2023.01.06-15.35.35:765][606]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/GPT_BehaviourTree.GPT_BehaviourTree
+[2023.01.06-15.35.40:872][923]BlueprintLog: New page: Compile GPT_BehaviourTree
+[2023.01.06-15.35.40:951][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.01.06-15.35.41:361][943]LogSavePackage: Moving output files for package: /Game/GPT_Code/Blueprints/GPT_BehaviourTree
+[2023.01.06-15.35.41:362][943]LogSavePackage: Moving '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Saved/GPT_BehaviourTree75A929354570E32FB45D699933ACF490.tmp' to '../../../../../../Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Content/GPT_Code/Blueprints/GPT_BehaviourTree.uasset'
+[2023.01.06-15.35.41:379][943]AssetCheck: New page: Asset Save: GPT_BehaviourTree
+[2023.01.06-15.35.41:379][943]LogContentValidation: Display: Validating Blueprint /Game/GPT_Code/Blueprints/GPT_BehaviourTree.GPT_BehaviourTree
+[2023.01.06-15.35.42:858][ 43]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.06-15.35.42:875][ 43]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.06-15.35.42:876][ 43]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.06-15.35.42:876][ 43]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.06-15.35.42:876][ 43]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.06-15.35.42:876][ 43]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.06-15.35.42:876][ 43]LogWorldPartition: Display: GetPartitionedActors took 72 us
+[2023.01.06-15.35.42:877][ 43]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2023.01.06-15.35.42:882][ 43]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.01.06-15.35.42:883][ 43]LogPlayLevel: [PlayLevel] Compiling BP_FirstPersonGameMode before play...
+[2023.01.06-15.35.42:887][ 43]LogPlayLevel: [PlayLevel] Compiling BP_GPT_NPC before play...
+[2023.01.06-15.35.42:988][ 43]LogPlayLevel: [PlayLevel] Compiling GPT_GameMode before play...
+[2023.01.06-15.35.42:992][ 43]LogPlayLevel: [PlayLevel] Compiling BehaviourTree_Interface before play...
+[2023.01.06-15.35.43:030][ 43]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2023.01.06-15.35.43:036][ 43]LogPlayLevel: [PlayLevel] Compiling NPC_UI before play...
+[2023.01.06-15.35.43:137][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.01.06-15.35.43:139][ 43]LogPlayLevel: PlayLevel: Blueprint regeneration took 256 ms (6 blueprints)
+[2023.01.06-15.35.43:146][ 43]PIE: New page: PIE session: FirstPersonMap (6 gen 2023, 17:35:43)
+[2023.01.06-15.35.43:155][ 43]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.01.06-15.35.43:157][ 43]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.06-15.35.43:159][ 43]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.01.06-15.35.43:168][ 43]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.01.06-15.35.43:168][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009337s)
+[2023.01.06-15.35.43:168][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.009415s)
+[2023.01.06-15.35.43:169][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.06-15.35.43:169][ 43]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.01.06-15.35.43:169][ 43]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.06-15.35.43:169][ 43]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.06-15.35.43:171][ 43]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.01.06-15.35.43:172][ 43]LogPlayLevel: PIE: World Init took: (0.004065s)
+[2023.01.06-15.35.43:210][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.06-15.35.43:213][ 43]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.01.06-15.35.43:213][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.06-15.35.43:213][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.06-15.35.43:213][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.06-15.35.43:213][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.06-15.35.43:213][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.06-15.35.43:213][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.06-15.35.43:213][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.06-15.35.43:213][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.06-15.35.43:214][ 43]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.06-15.35.43:214][ 43]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.06-15.35.43:214][ 43]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.06-15.35.43:217][ 43]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.06-15.35.43:304][ 43]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (Realtek(R) Audio)
+[2023.01.06-15.35.43:304][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.06-15.35.43:305][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.06-15.35.43:305][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.06-15.35.43:305][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.01.06-15.35.43:305][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2023.01.06-15.35.43:307][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.01.06-15.35.43:307][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.01.06-15.35.43:307][ 43]LogInit: FAudioDevice initialized.
+[2023.01.06-15.35.43:307][ 43]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2023.01.06-15.35.43:326][ 43]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.01.06-15.35.43:333][ 43]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.01.06-16.35.43
+[2023.01.06-15.35.43:356][ 43]LogWorld: Bringing up level for play took: 0.029159
+[2023.01.06-15.35.43:359][ 43]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.01.06-15.35.43:405][ 43]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.01.06-15.35.43:405][ 43]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.06-15.35.43:412][ 43]PIE: Server logged in
+[2023.01.06-15.35.43:414][ 43]PIE: Play in editor total start time 0,546 seconds.
+[2023.01.06-15.35.43:424][ 43]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.43:425][ 43]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.43:968][ 44]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.43:968][ 44]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:011][ 45]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:011][ 45]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:109][ 46]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:109][ 46]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:129][ 47]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:129][ 47]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:137][ 48]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:137][ 48]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:146][ 49]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:146][ 49]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:161][ 50]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:161][ 50]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:175][ 51]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:175][ 51]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:200][ 52]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:200][ 52]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:208][ 53]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:208][ 53]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:220][ 54]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:220][ 54]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:235][ 55]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:235][ 55]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:250][ 56]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:250][ 56]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:282][ 57]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:282][ 57]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:291][ 58]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:291][ 58]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:305][ 59]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:305][ 59]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:321][ 60]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:321][ 60]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:348][ 61]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:348][ 61]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:356][ 62]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:356][ 62]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:366][ 63]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:367][ 63]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:388][ 64]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:388][ 64]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:407][ 65]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:407][ 65]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:415][ 66]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:415][ 66]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:426][ 67]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:426][ 67]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:441][ 68]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:441][ 68]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:455][ 69]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:455][ 69]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:479][ 70]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:479][ 70]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:487][ 71]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:487][ 71]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:498][ 72]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:498][ 72]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:512][ 73]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:513][ 73]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:527][ 74]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:527][ 74]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:553][ 75]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:553][ 75]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:561][ 76]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:561][ 76]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:574][ 77]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:574][ 77]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:590][ 78]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:590][ 78]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:605][ 79]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:605][ 79]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:629][ 80]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:629][ 80]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:637][ 81]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:637][ 81]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:650][ 82]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:650][ 82]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:666][ 83]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:666][ 83]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:679][ 84]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:679][ 84]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:703][ 85]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:703][ 85]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:712][ 86]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:712][ 86]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:723][ 87]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:723][ 87]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:737][ 88]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:737][ 88]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:751][ 89]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:751][ 89]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:775][ 90]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:775][ 90]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:783][ 91]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:783][ 91]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:793][ 92]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:793][ 92]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:807][ 93]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:807][ 93]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:822][ 94]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:822][ 94]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:847][ 95]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:847][ 95]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:855][ 96]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.44:855][ 96]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.44:864][ 97]LogPython: Display: Generating Python API stub file...
+[2023.01.06-15.35.44:868][ 97]LogPython: Display:   ...generating Python API: glue code
+[2023.01.06-15.35.45:319][ 97]LogPython: Display:   ...generating Python API: additional code
+[2023.01.06-15.35.45:392][ 97]LogPython: Display:   ...generated: C:/Users/alepr/Documents/Unreal Projects/Behaviour_GPTree/Behaviour-GPTree/Intermediate/PythonStub/unreal.py
+[2023.01.06-15.35.45:396][ 97]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC
+[2023.01.06-15.35.45:396][ 97]LogBlueprintUserMessages: [GPT_BehaviourTree] BP_GPT_NPC2
+[2023.01.06-15.35.45:422][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.06-15.35.45:422][ 97]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.01.06-15.35.45:424][ 97]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.06-15.35.45:426][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.06-15.35.45:444][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.06-15.35.45:446][ 97]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.01.06-15.35.45:491][ 97]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.046 s
+[2023.01.06-15.35.45:491][ 97]LogOutputDevice: Error: === Handled ensure: ===
+[2023.01.06-15.35.45:491][ 97]LogOutputDevice: Error: 
+[2023.01.06-15.35.45:491][ 97]LogOutputDevice: Error: Ensure condition failed: IsPackageExternal() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Classes\GameFramework\Actor.h] [Line: 2228]
+[2023.01.06-15.35.45:491][ 97]LogOutputDevice: Error: 
+[2023.01.06-15.35.45:491][ 97]LogOutputDevice: Error: Stack: 
+[2023.01.06-15.35.45:491][ 97]LogOutputDevice: Error: [Callstack] 0x00007ffabde15fa6 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.06-15.35.45:491][ 97]LogOutputDevice: Error: [Callstack] 0x00007ffabde2f705 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.06-15.35.45:491][ 97]LogOutputDevice: Error: [Callstack] 0x00007ffabde106aa UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.06-15.35.45:491][ 97]LogOutputDevice: Error: [Callstack] 0x00007ffac3f7ebed UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.06-15.35.45:492][ 97]LogOutputDevice: Error: [Callstack] 0x00007ffac4a70c73 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.06-15.35.45:492][ 97]LogOutputDevice: Error: [Callstack] 0x00007ffac445fa40 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.06-15.35.45:492][ 97]LogOutputDevice: Error: [Callstack] 0x00007ffac4deaac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.06-15.35.45:492][ 97]LogOutputDevice: Error: [Callstack] 0x00007ff6f26d82f6 UnrealEditor.exe!UnknownFunction []
+[2023.01.06-15.35.45:492][ 97]LogOutputDevice: Error: [Callstack] 0x00007ff6f26f0d9c UnrealEditor.exe!UnknownFunction []
+[2023.01.06-15.35.45:492][ 97]LogOutputDevice: Error: [Callstack] 0x00007ff6f26f0e8a UnrealEditor.exe!UnknownFunction []
+[2023.01.06-15.35.45:492][ 97]LogOutputDevice: Error: [Callstack] 0x00007ff6f26f3c4d UnrealEditor.exe!UnknownFunction []
+[2023.01.06-15.35.45:492][ 97]LogOutputDevice: Error: [Callstack] 0x00007ff6f2705564 UnrealEditor.exe!UnknownFunction []
+[2023.01.06-15.35.45:492][ 97]LogOutputDevice: Error: [Callstack] 0x00007ff6f2708736 UnrealEditor.exe!UnknownFunction []
+[2023.01.06-15.35.45:492][ 97]LogOutputDevice: Error: [Callstack] 0x00007ffbc60555a0 KERNEL32.DLL!UnknownFunction []
+[2023.01.06-15.35.45:492][ 97]LogOutputDevice: Error: [Callstack] 0x00007ffbc66c485b ntdll.dll!UnknownFunction []
+[2023.01.06-15.35.45:492][ 97]LogOutputDevice: Error: 
