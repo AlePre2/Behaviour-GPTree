@@ -27,6 +27,8 @@ Additional:
 
 -Select the NPC in the world and from the details panel change his Name and NPC Info
 
+-Tested on 5.0 and 5.1
+
 Warnings:
 
 -The pyton functions are not asynchronous so until you recive a reply the game will be frozen
