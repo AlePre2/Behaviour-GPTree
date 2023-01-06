@@ -1,7 +1,9 @@
 # Behaviour-GPTree
  
 This is a simple example project to integrate openai API in Unreal Engine.
+Features:
 This sample project shows how you can talk to NPCs and create their background using artifical intelligence.
+There is an experimental behaviour tree using AI.
 
 QuickStart:
 
@@ -40,3 +42,9 @@ Warnings:
 -The pyton functions are not asynchronous so until you recive a reply the game will be frozen
 
 -Be careful not to use too many credits if you have a paid openai account
+
+Credits:
+
+Alessandro Pregnolato
+
+Icons: https://game-icons.net/
