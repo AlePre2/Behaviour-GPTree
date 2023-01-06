@@ -6,11 +6,16 @@ This sample project shows how you can talk to NPCs and create their background u
 QuickStart:
 
 1) Open the CMD and paste this:
- git clone "https://github.com/openai/openai-quickstart-node.git
+```bash
+git clone "https://github.com/openai/openai-quickstart-node.git
+``` 
  (Make sure to have git installed)
  
 2) Paste the directory of you'r unreal editor and use this command:
- "\UE_5.0\Engine\Binaries\ThirdParty\Python\Win64\python.exe" -m pip install openai
+```bash
+"\UE_5.0\Engine\Binaries\ThirdParty\Python\Win64\python.exe" -m pip install openai
+```
+ 
  
 3) Open the project and go in to Content->GPT_Code->Blueprints->GPT_Component and set you'r openai API key, you can generate one here:
  "https://beta.openai.com/account/api-keys"
