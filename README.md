@@ -6,6 +6,7 @@ QuickStart:
 
 1) Open the CMD and paste this:
  git clone "https://github.com/openai/openai-quickstart-node.git"
+ (Make sure to have git installed)
  
 2) Paste the directory of you'r unreal editor and use this command:
  "\UE_5.0\Engine\Binaries\ThirdParty\Python\Win64\python.exe" -m pip install openai
