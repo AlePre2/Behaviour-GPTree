@@ -15,3 +15,17 @@
 [0106/171952.179:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
 [0106/171952.190:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
 [0106/171956.806:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0106/225605.067:WARNING:backend_impl.cc(1813)] Destroying invalid entry.
+[0106/225605.070:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0106/225605.070:WARNING:storage_block-inl.h(146)] Failed data load.
+[0106/225605.070:WARNING:storage_block-inl.h(146)] Failed data load.
+[0106/225605.070:ERROR:entry_impl.cc(1076)] No file for c1030002
+[0106/225605.070:WARNING:storage_block-inl.h(146)] Failed data load.
+[0106/225605.070:WARNING:storage_block-inl.h(146)] Failed data load.
+[0106/225605.070:WARNING:storage_block-inl.h(146)] Failed data load.
+[0106/225605.070:WARNING:storage_block-inl.h(146)] Failed data load.
+[0106/225605.070:ERROR:entry_impl.cc(1076)] No file for c1030004
+[0106/225605.070:WARNING:storage_block-inl.h(146)] Failed data load.
+[0106/225605.070:WARNING:storage_block-inl.h(146)] Failed data load.
+[0106/225605.705:ERROR:entry_impl.cc(998)] Failed to save user data
+[0106/225605.705:ERROR:entry_impl.cc(998)] Failed to save user data
